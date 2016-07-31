@@ -1,0 +1,5 @@
+# GIT
+*.orig
+
+# MAC STUFF
+.DS_Store
